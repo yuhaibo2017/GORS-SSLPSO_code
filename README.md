@@ -1,5 +1,4 @@
-# GORS-SSLPSO_code
-Matlab version
+# GORS-SSLPSO_code (Matlab version)
 Implementation of A Generation-based Optimal Restart Strategy for Surrogate-assisted SLPSO (GORS-SSLPSO)
 
 H. Yu, Y. Tan, C. Sun, J. Zeng, A generation-based optimal restart strategy for surrogate-assisted social learning particle swarm optimization, Knowledge-Based Systems, (2018).
